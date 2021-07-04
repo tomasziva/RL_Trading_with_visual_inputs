@@ -6,7 +6,11 @@ Code for Msc. thesis Modelling trading behavior using reinforcement learning wit
 
 # Overview of the files:
 market_env.py - initializes RL training enviroment in which agent acts
+
 market_model_builder.py - creates CNN architecture for task optimization
+
 model_builder.py - returns saved model
+
 Q-stockmod.ipynb - runs DQN model
+
 PG-stockmod.ipynb - runs PG model
